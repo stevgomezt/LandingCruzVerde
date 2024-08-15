@@ -4,7 +4,8 @@ var galleryImgSmartC = document.getElementById('galleryImgSmartC');
 var imageContainerSmartC = document.getElementById('imageContainerSmartC');
 var imagesSmartC = [
   "/assets/img/slides/smartC1.jpg",
-  "/assets/img/slides/smartC2.jpg",
+  "/assets/img/slides/smartC2.png",
+  "/assets/img/slides/smartC2-1.jpg",
   "/assets/img/slides/smartC3.jpg",
   "/assets/img/slides/smartC4.jpg"
 ];

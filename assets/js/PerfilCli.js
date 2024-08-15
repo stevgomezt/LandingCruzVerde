@@ -3,8 +3,8 @@ var modalDialogPerfilCli = document.querySelector('.modal-dialog');
 var galleryImgPerfilCli = document.getElementById('galleryImgPerfilCli');
 var imageContainerPerfilCli = document.getElementById('imageContainerPerfilCli');
 var imagesPerfilCli = [
-  "/assets/img/slides/perfilCli1.jpg",
-  "/assets/img/slides/perfilCli2.jpg"
+  "/assets/img/slides/perfilCli1.png",
+  "/assets/img/slides/perfilCli2.png"
 ];
 var currentIndexPerfilCli = 0;
 
