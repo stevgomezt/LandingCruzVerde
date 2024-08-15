@@ -5,7 +5,8 @@ var galleryImgModeloPre = document.getElementById('galleryImgModeloPre');
 var imageContainerModeloPre = document.getElementById('imageContainerModeloPre');
 var imagesModeloPre = [
   "/assets/img/slides/modelosPre1.jpg",
-  "/assets/img/slides/modelosPre2.jpg",
+  "/assets/img/slides/modelosPre2.png",
+  "/assets/img/slides/modelosPre2-1.jpg",
   "/assets/img/slides/modelosPre3.jpg",
   // "/assets/img/slides/modelosPre4.jpg",
   // "/assets/img/slides/modelosPre5.jpg",
